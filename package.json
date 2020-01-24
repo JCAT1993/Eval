@@ -1,0 +1,15 @@
+{
+  "name": "api_transferencias",
+  "version": "1.0.0",
+  "description": "",
+  "main": "dir",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Juan Carlos",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "underscore": "^1.9.2"
+  }
+}
