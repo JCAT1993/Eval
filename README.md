@@ -6,6 +6,9 @@ El testing para el consumo de servicios restfull fue realizado con la herramient
 
 # Requerimientos
 Instalar Nodejs.
+
 Instalar Express (Eval/npm install Express).
+
 Instalar Underscore (Eval/npm install Underscore).
+
 Instalar Postman (solo para probar con estructura json anexada).
