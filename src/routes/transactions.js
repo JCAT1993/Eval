@@ -24,7 +24,7 @@ router.get('/allTrans', (req, res) => {
 	
 			console.log("fromAccount=",fromAccount)
             if (i.fromAccount === fromAccount || i.toAccount === fromAccount) {
-				console.log("entro algo")
+				
                 respuesta[tran].push(i)
             }
 			
@@ -51,7 +51,7 @@ router.get('/sent_trans', (req, res) => {
 	
 			console.log("fromAccount=",fromAccount)
             if (i.fromAccount === fromAccount) {
-				console.log("entro algo")
+				
                 respuesta[tran].push(i)
             }
 			
